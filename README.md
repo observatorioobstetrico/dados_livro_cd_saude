@@ -1,4 +1,4 @@
-# Bases de dados do livro Ciência de Dados Aplicada à Saúde
+# Bases de dados do livro Ciência de Dados Aplicada à Saúde Materno-Infantil
 
 <p align="center">
 
@@ -6,6 +6,6 @@
 
 </p>
 
-Bases de dados utilizadas nas aplicações do livro <em>Ciência de Dados Aplicada à Saúde</em>.
+Bases de dados utilizadas nas aplicações do livro <em>Ciência de Dados Aplicada à Saúde Materno-Infantil</em>.
 
 <li>Dados de COVID-19 em gestantes e puérperas: <tt>base_covid19.rds</tt></li>
