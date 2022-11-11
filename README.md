@@ -1,4 +1,4 @@
-# Bases de dados do livro Ciência de Dados Aplicada à Saúde Materno-Infantil
+# Bases de dados
 
 <p align="center">
 
