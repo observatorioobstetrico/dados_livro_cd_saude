@@ -8,4 +8,4 @@
 
 Bases de dados utilizadas nas aplicações do livro <em>Ciência de Dados Aplicada à Saúde</em>.
 
-<li>Dados de COVID-19 em gestantes e puérperas</li>
+<li>Dados de COVID-19 em gestantes e puérperas: <tt>base_covid19.rds</tt></li>
