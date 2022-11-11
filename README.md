@@ -7,3 +7,5 @@
 </p>
 
 Bases de dados utilizadas nas aplicações do livro <em>Ciência de Dados Aplicada à Saúde</em>.
+
+<li>Dados de COVID-19 em gestantes e puérperas</li>
